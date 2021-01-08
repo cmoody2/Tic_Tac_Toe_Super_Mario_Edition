@@ -8,7 +8,12 @@
  - CSS
  
  ## Table of Contents
- 
+ * [Index Page](/README.md#index-page)
+ * [Square Placement](/README.md#square-placement)
+ * [Check Win Conditions](/README.md#check-win-conditions)
+ * [Draw Win Line](/README.md#draw-win-line)
+ * [Clear Board](/README.md#clear-board)
+ * [Closing Thoughts](/README.md#closing-thoughts)
  
  ## Index page
  I began by creating the index page and all of the table elements for the board
