@@ -7,6 +7,9 @@
  - HTML
  - CSS
  
+ ## Table of Contents
+ 
+ 
  ## Index page
  I began by creating the index page and all of the table elements for the board
  
