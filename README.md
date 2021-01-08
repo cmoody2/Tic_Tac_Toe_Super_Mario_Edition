@@ -43,4 +43,4 @@
  ![Tic-Tac-Toe win clear](./TicTacToe/readme_images/clearing_board.png)
  
  ## Closing Thoughts
- This was a both fun and informative way to test my ability with JavaScript. I was particularly proud with my recreation of the Super Mario Title screen using CSS and     implementing a gameplay video in the background to make appearance more dynamic. 
+ This was a both fun and informative way to test my ability with JavaScript. I was particularly proud with my recreation of the Super Mario Title screen using custom CSS and     implementing a gameplay video in the background to make the appearance more dynamic. 
