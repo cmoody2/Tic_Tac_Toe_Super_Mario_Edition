@@ -7,6 +7,8 @@
  - HTML
  - CSS
  
+ ![Tic-Tac-Toe game](./TicTacToe/readme_images/game_image.png)
+ 
  ## Table of Contents
  * [Index Page](/README.md#index-page)
  * [Square Placement](/README.md#square-placement)
